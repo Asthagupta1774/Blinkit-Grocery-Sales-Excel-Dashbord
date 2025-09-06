@@ -23,7 +23,7 @@ It provides insights into **sales trends, product performance, outlet distributi
   ---
 
 ## 📁 File Included
-   'Excel_Dashboard\Blinkit Sales Dashbord.xlsx' – The complete dashboard with KPIs and slicers.
+   'Excel_Dashboard\Blinkit_Sales_Dashbord.xlsx' – The complete dashboard with KPIs and slicers.
 
 ---
 
