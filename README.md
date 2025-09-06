@@ -18,4 +18,14 @@ It provides insights into **sales trends, product performance, outlet distributi
 - 🏬 Tier 3 outlets recorded the highest sales  
 - 🛒 Top 5 items contributed around 60% of total revenue  
 - 🥗 Low-fat items consistently outperformed regular-fat items across all tiers  
-- 🏪 Supermarket Type 1 led in overall sales 
+- 🏪 Supermarket Type 1 led in overall sales
+
+  ---
+
+## 📁 File Included
+  -'Excel_Dashboard\Blinkit Sales Dashbord.xlsx' – The complete dashboard with KPIs and slicers.
+
+---
+
+## 📬 Contact
+[LinkedIn](https://www.linkedin.com/in/astha-gupta-a863a821a/) | guptaastha428@gmail.com
